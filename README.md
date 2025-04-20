@@ -45,7 +45,7 @@ This repository contains the implementation for a Deep Learning mini-project (Sp
 | Metric            | Value   |
 |------------------|---------|
 | Eval Accuracy     | **94.71%** |
-| Eval F1-score     | *95%* |
+| Eval F1-score     | *0.95%* |
 | Eval Loss         | *0.45* |
 
 ---
