@@ -65,6 +65,12 @@ This repository contains the implementation for a Deep Learning mini-project (Sp
 > We observed that a lower LoRA rank (`r=4`) paired with a moderate alpha (`alpha=16`) offered the best balance between performance and parameter efficiency. Higher dropout helped mitigate overfitting in deeper configurations.
 
 
+## Contributions
+- **Ranjan (sp8171@nyu.edu)**
+- **Nishanth (nk3968@nyu.edu)**
+- **Shreyas (sb9855@nyu.edu)**
+
+
 
 
 
